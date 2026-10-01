@@ -1,0 +1,21 @@
+VERICOMMERCE - PRODUCT SUPPORT POLICY
+
+Document ID: PRODUCT-SUPPORT-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. TRUSTED PRODUCT DETAILS
+
+Product names, specifications, compatibility, stock, and prices must come from the current VeriCommerce catalog or approved product documentation. Do not infer compatibility from a product category alone.
+
+2. COMPATIBILITY QUESTIONS
+
+Check the specific product's listed ports, protocols, operating-system support, and accessory requirements. If a device or configuration is not listed, say that compatibility cannot be confirmed and offer support review.
+
+3. TROUBLESHOOTING
+
+Offer only safe, documented setup guidance. Do not instruct customers to open power supplies, bypass safety controls, or perform repairs that could cause injury or void warranty terms.
+
+4. PRODUCT AVAILABILITY
+
+Catalog stock is a current demo-data value and may change. A stock count does not reserve an item or guarantee availability at checkout.

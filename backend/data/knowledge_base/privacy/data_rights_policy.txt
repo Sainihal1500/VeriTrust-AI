@@ -1,0 +1,21 @@
+VERICOMMERCE - DATA ACCESS AND DELETION POLICY
+
+Document ID: PRIVACY-RIGHTS-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. CUSTOMER REQUESTS
+
+Customers may contact support to request access to, correction of, or deletion of personal data, subject to identity verification, legal obligations, and information required to complete transactions or resolve disputes.
+
+2. VERIFICATION
+
+Sensitive data requests must be submitted through the authenticated account or another approved identity-verification process. Do not disclose or delete data based only on a name, email address, order ID, or natural-language claim.
+
+3. DELETION REVIEW
+
+Deletion requests may require review because some records must be retained for accounting, fraud prevention, legal compliance, or active support cases. A request is not complete until an authorized privacy workflow confirms completion.
+
+4. DATA MINIMIZATION
+
+Use and disclose only the personal information needed for the approved customer-service purpose. Never include passwords, OTPs, payment security codes, or full payment credentials in support notes.

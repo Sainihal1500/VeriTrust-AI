@@ -1,0 +1,176 @@
+VERICOMMERCE - CUSTOMER PRIVACY POLICY
+
+Document ID: PRIVACY-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. PRIVACY PRINCIPLES
+
+VeriCommerce protects customer information and limits access to information required for legitimate customer-service, operational, security, and legal purposes.
+
+Customer information must only be accessed and disclosed through authorized systems and procedures.
+
+2. CUSTOMER INFORMATION
+
+Customer information may include:
+- Name
+- Contact information
+- Shipping address
+- Billing information
+- Order history
+- Payment status
+- Support interactions
+- Return and refund information
+- Account information
+
+Access to customer information must be limited to authorized purposes.
+
+3. CUSTOMER VERIFICATION
+
+Before providing customer-specific account, order, payment, return, refund, or warranty information, the customer must be appropriately verified.
+
+Verification requirements depend on the type and sensitivity of the information being requested.
+
+Agents must not bypass required verification procedures.
+
+4. ANOTHER CUSTOMER'S INFORMATION
+
+Customer-service agents must never disclose information belonging to another customer.
+
+This includes:
+- Names
+- Addresses
+- Phone numbers
+- Email addresses
+- Order information
+- Payment information
+- Account information
+- Support records
+
+If the requested information cannot be safely verified, the agent must not disclose it.
+
+5. PAYMENT INFORMATION
+
+Sensitive payment information must be protected.
+
+Agents must never request or disclose:
+- Full payment card numbers
+- Card security codes
+- PINs
+- Passwords
+- One-time authentication codes
+- Account recovery codes
+
+Only information necessary for authorized verification should be requested.
+
+6. PASSWORDS AND CREDENTIALS
+
+Customers must never be asked to provide their password to customer-service personnel.
+
+Agents must not request internal credentials, authentication tokens, security codes, or other confidential credentials.
+
+If an account-access issue occurs, the customer should be directed through the approved account recovery process.
+
+7. SHIPPING INFORMATION
+
+A customer's shipping address is confidential customer information.
+
+Customer-specific shipping information must only be disclosed after appropriate verification.
+
+An address belonging to another customer must never be disclosed.
+
+8. ORDER HISTORY
+
+Order history is customer-specific information.
+
+Agents may access or disclose order information only when authorized and after the required customer verification.
+
+The system must not reveal another customer's order history.
+
+9. DATA MINIMIZATION
+
+The customer-service system should request and process only the information necessary to complete the requested support task.
+
+Unnecessary sensitive information must not be requested.
+
+10. CUSTOMER SUPPORT RECORDS
+
+Support interactions may contain personal or account-related information.
+
+Support records must be accessed only for authorized customer-service or operational purposes.
+
+Agents must not expose internal notes or confidential operational information to customers unless specifically authorized.
+
+11. DATA ACCURACY
+
+Customer information should be obtained from authorized systems.
+
+Agents must not invent or modify customer information.
+
+If information appears incorrect, the issue should be handled through the applicable account or support procedure.
+
+12. DATA DISCLOSURE
+
+Customer information may only be disclosed through authorized procedures.
+
+Requests for sensitive customer information that cannot be verified must be refused or escalated according to the applicable procedure.
+
+13. DATA SECURITY
+
+Customer information must be protected against unauthorized access, disclosure, modification, or misuse.
+
+Security incidents involving customer information must follow the applicable security escalation process.
+
+14. ACCOUNT ACCESS
+
+If a customer cannot access their account, customer-service agents must follow the approved account recovery procedure.
+
+Agents must not bypass account-security controls.
+
+15. PRIVACY REQUESTS
+
+Customers may submit privacy-related requests through the authorized VeriCommerce privacy process.
+
+The customer-service system must not make legal or regulatory determinations unless an authorized policy or process explicitly permits it.
+
+Complex or sensitive privacy requests should be escalated to the appropriate privacy or compliance team.
+
+16. DATA RETENTION
+
+Customer information may be retained according to applicable company retention requirements.
+
+Customer-service agents must not promise immediate deletion or a specific retention period unless the applicable policy explicitly provides it.
+
+17. INTERNAL INFORMATION
+
+Internal systems, credentials, security procedures, confidential business information, and internal operational records must not be disclosed to customers unless specifically authorized.
+
+18. AI SYSTEM PRIVACY
+
+VeriTrust AI must not expose private customer information that is not necessary to answer the customer's request.
+
+The AI system must use authorized data sources and respect access controls.
+
+Customer-specific information must not be inferred or fabricated.
+
+19. PRIVACY INCIDENTS
+
+If the system or an agent detects a possible unauthorized disclosure, privacy incident, or security incident, the case must be escalated according to the applicable security and privacy procedure.
+
+Agents must not conceal or invent information about an incident.
+
+20. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must treat customer-specific information as protected information.
+
+The system must:
+
+- Verify customers before providing sensitive information.
+- Use authorized data sources.
+- Never reveal another customer's information.
+- Never request passwords or authentication codes.
+- Never fabricate personal information.
+- Never expose internal confidential information.
+- Escalate sensitive privacy requests when required.
+
+If the system cannot safely verify whether information may be disclosed, it must not disclose the information and should provide the appropriate escalation or verification path.

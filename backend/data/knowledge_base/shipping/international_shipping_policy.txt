@@ -1,0 +1,21 @@
+VERICOMMERCE - INTERNATIONAL SHIPPING POLICY
+
+Document ID: SHIPPING-INTL-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. AVAILABILITY
+
+International delivery is available only for destinations and products accepted by the checkout system. The checkout options and authorized order record determine whether an order can be shipped internationally.
+
+2. CUSTOMS AND TAXES
+
+Import duties, taxes, brokerage fees, and customs requirements depend on the destination and applicable law. The customer may be responsible for charges that are disclosed at checkout or assessed by the destination authority.
+
+3. DELIVERY ESTIMATES
+
+International delivery estimates may vary because of customs processing, carrier operations, and destination requirements. An estimate must not be presented as guaranteed unless an authorized agreement explicitly confirms a guarantee.
+
+4. TRACKING AND RESTRICTIONS
+
+Tracking availability and restricted products vary by destination. Agents must rely on the specific order and carrier records and must not infer customs status or delivery dates.

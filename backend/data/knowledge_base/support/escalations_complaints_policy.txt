@@ -1,0 +1,21 @@
+VERICOMMERCE - COMPLAINT AND ESCALATION POLICY
+
+Document ID: SUPPORT-ESCALATION-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. CASE CREATION
+
+Create or update a support case when a customer reports a complaint, unresolved transaction, safety concern, repeated delivery exception, or issue that needs a specialist decision.
+
+2. PRIORITY
+
+Urgent safety, suspected fraud, account takeover, and confirmed duplicate collection should be routed to the appropriate specialist queue. Priority must follow the case system and must not be invented by the assistant.
+
+3. SERVICE EXPECTATIONS
+
+Support response targets depend on issue type and current queue conditions. Unless a case record or published service-level commitment provides a specific deadline, do not guarantee a response or resolution time.
+
+4. CUSTOMER COMMUNICATION
+
+Summarize the verified issue, explain the next action, and avoid blaming the customer or promising a resolution that has not been approved. Give the case reference only when the authorized system provides one.

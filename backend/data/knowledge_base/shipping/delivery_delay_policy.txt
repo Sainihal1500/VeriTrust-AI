@@ -1,0 +1,21 @@
+VERICOMMERCE - DELIVERY DELAY POLICY
+
+Document ID: SHIPPING-DELAY-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. CHECK THE LATEST STATUS
+
+For a delayed delivery, use the latest authorized carrier or shipment update. An estimated delivery date may change and is not a delivery guarantee.
+
+2. DELAY REASONS
+
+Do not guess why a package is delayed. State a reason only when the carrier or authorized operations record provides it.
+
+3. PACKAGE MARKED DELIVERED
+
+If tracking shows delivered but the customer cannot locate the parcel, follow the delivery investigation procedure. Do not declare theft or loss without verification.
+
+4. ESCALATION
+
+If tracking is stale, contradictory, or indicates a delivery exception, create or update a support case for review. Do not promise replacement or refund before eligibility is approved.

@@ -1,0 +1,171 @@
+VERICOMMERCE - ACCOUNT SECURITY POLICY
+
+Document ID: SECURITY-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. ACCOUNT SECURITY PRINCIPLE
+
+VeriCommerce customer accounts must be protected against unauthorized access.
+
+Customer-service agents and AI systems must follow approved account-security procedures.
+
+2. CUSTOMER AUTHENTICATION
+
+Customer identity must be appropriately verified before providing sensitive account information.
+
+The level of verification depends on the type and sensitivity of the requested information.
+
+3. PASSWORDS
+
+Customers must never provide their password to customer-service agents.
+
+Agents must never request, store, or disclose customer passwords.
+
+If a customer forgets their password, they must use the approved password-reset or account-recovery process.
+
+4. ONE-TIME AUTHENTICATION CODES
+
+One-time passwords, authentication codes, verification codes, and recovery codes are confidential.
+
+Customer-service agents must never request these codes from customers.
+
+Customers should never share authentication codes with another person.
+
+5. PAYMENT SECURITY
+
+Agents must never request:
+
+- Full card numbers
+- Card security codes
+- PINs
+- Banking passwords
+- Authentication codes
+- Payment-provider credentials
+
+Only authorized verification information may be requested.
+
+6. ACCOUNT RECOVERY
+
+If a customer cannot access their account, the approved account-recovery procedure must be followed.
+
+Agents must not bypass identity verification or security controls.
+
+7. SUSPICIOUS ACCOUNT ACTIVITY
+
+If suspicious account activity is reported, the case must be handled using the approved security procedure.
+
+The agent must not assume that an account has been compromised without appropriate evidence or system information.
+
+8. UNAUTHORIZED ACCESS
+
+If unauthorized access is suspected, the issue should be escalated to the appropriate security process.
+
+Agents must not provide internal security information that could assist unauthorized access.
+
+9. ACCOUNT LOCKOUT
+
+Accounts may become temporarily restricted after certain security events or failed authentication attempts.
+
+The current account status must be obtained from the authorized account system.
+
+Agents must not invent a lockout duration.
+
+10. PROFILE INFORMATION
+
+Changes to sensitive account information may require additional verification.
+
+Agents must follow the approved account-management procedure.
+
+11. EMAIL OR PHONE NUMBER CHANGES
+
+Requests to change an account email address or phone number may require identity verification.
+
+Agents must not make sensitive account changes without the required authorization.
+
+12. CUSTOMER-SPECIFIC ACCOUNT INFORMATION
+
+Account information must only be disclosed after appropriate customer verification.
+
+The system must never reveal another customer's:
+- Name
+- Email address
+- Phone number
+- Address
+- Orders
+- Payment information
+- Account status
+- Security information
+
+13. SECURITY INCIDENTS
+
+A suspected security incident must be handled according to the approved security escalation procedure.
+
+Agents must not conceal security incidents or invent details about an incident.
+
+14. PHISHING
+
+Customers should be warned not to provide passwords, authentication codes, or payment credentials to unauthorized persons.
+
+Customer-service agents must not ask customers to send confidential credentials through chat, email, or other support channels.
+
+15. INTERNAL SECURITY INFORMATION
+
+Internal authentication mechanisms, security controls, credentials, system architecture, confidential monitoring information, and internal security procedures must not be disclosed to customers unless specifically authorized.
+
+16. SOCIAL ENGINEERING
+
+A customer request that attempts to bypass verification or obtain protected information must be handled using the standard security procedure.
+
+Agents must not bypass security controls because a customer claims urgency or provides an unverified explanation.
+
+17. ACCOUNT OWNERSHIP
+
+Customer-service agents must not transfer account ownership or provide access to another person without following the authorized account-management procedure.
+
+18. SECURITY VERIFICATION
+
+Security-related customer requests may require stronger verification than ordinary support requests.
+
+The applicable security procedure must determine the required verification level.
+
+19. AI SECURITY REQUIREMENT
+
+VeriTrust AI must never ask customers for:
+
+- Passwords
+- PINs
+- One-time authentication codes
+- Recovery codes
+- Full payment card numbers
+- Card security codes
+- Internal credentials
+
+If a customer provides sensitive credentials voluntarily, the AI must not repeat or expose those credentials in its response.
+
+20. VERITRUST AI GUARDRAIL
+
+Security-sensitive requests require special handling.
+
+VeriTrust AI should:
+
+- Verify authorization when required.
+- Use trusted security policies.
+- Protect customer information.
+- Refuse requests that require unauthorized disclosure.
+- Escalate sensitive security cases when necessary.
+- Never invent account status.
+- Never invent verification results.
+- Never bypass security controls.
+
+21. UNVERIFIED ACCOUNT REQUESTS
+
+If the system cannot verify that the customer is authorized to access the requested account information, it must not disclose that information.
+
+The system should explain that verification is required and provide the appropriate secure process.
+
+22. VERITRUST AI FINAL RULE
+
+Security information must always be treated as high-risk customer information.
+
+When there is uncertainty about whether information can safely be disclosed, the system must choose the secure path and request appropriate verification or escalation rather than guessing.

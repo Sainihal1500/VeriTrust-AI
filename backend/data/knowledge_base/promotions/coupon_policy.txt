@@ -1,0 +1,21 @@
+VERICOMMERCE - COUPON AND PROMOTION CODE POLICY
+
+Document ID: PROMO-COUPON-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. COUPON TERMS
+
+Each coupon has its own validity dates, eligible products, minimum order value, customer eligibility, payment conditions, and redemption limits. The promotion record and checkout are authoritative.
+
+2. APPLYING A CODE
+
+Customers should enter a coupon at checkout before placing the order. A displayed discount is confirmed only when it appears in the final order total.
+
+3. STACKING AND TRANSFER
+
+Coupons may not be combined unless the applicable promotion terms explicitly allow it. A coupon assigned to one account must not be represented as transferable without confirmation.
+
+4. FAILED OR EXPIRED CODES
+
+If a code is rejected, support may check its status and eligibility. Agents must not invent replacement codes, extend expiry dates, or promise a discount after purchase without authorized approval.

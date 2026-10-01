@@ -1,0 +1,135 @@
+VERICOMMERCE - ORDER MANAGEMENT POLICY
+
+Document ID: ORDER-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. ORDER CONFIRMATION
+
+After a customer successfully places an order, VeriCommerce creates a unique order ID.
+
+Customers may use the order ID to request information about their order.
+
+Order confirmation may include:
+- Order ID
+- Products ordered
+- Quantity
+- Order total
+- Payment status
+- Shipping address
+- Order status
+- Estimated delivery information
+
+2. ORDER STATUS
+
+Orders may have the following statuses:
+
+PLACED:
+The order has been successfully created but processing has not yet started.
+
+CONFIRMED:
+Payment has been confirmed and the order has been accepted for processing.
+
+PROCESSING:
+The warehouse is preparing the products for shipment.
+
+PACKED:
+The products have been packed and prepared for carrier pickup.
+
+SHIPPED:
+The package has been handed over to the shipping carrier.
+
+OUT_FOR_DELIVERY:
+The carrier has received the package and it is scheduled for delivery.
+
+DELIVERED:
+The carrier has reported that the package was delivered.
+
+CANCELLED:
+The order was cancelled before completion.
+
+RETURN_REQUESTED:
+The customer has submitted a return request.
+
+RETURNED:
+The returned product has been received and processed.
+
+3. ORDER MODIFICATION
+
+Customers may request changes to an order while the order is still in a modifiable state.
+
+Product quantity or product changes may be possible before the order enters the PACKED status.
+
+Once an order has been PACKED, modifications may no longer be possible.
+
+Customer-service agents must check the current order status before promising any modification.
+
+4. SHIPPING ADDRESS CHANGES
+
+A shipping address change may be requested before the order is shipped.
+
+After an order reaches SHIPPED status, the shipping address normally cannot be changed through standard customer service procedures.
+
+If an address change is requested after shipment, the customer-service agent must check the available carrier or operational options.
+
+Agents must never guarantee that a shipped package can be redirected.
+
+5. ORDER CANCELLATION
+
+Customers may request cancellation before an order is shipped.
+
+Cancellation is not guaranteed after an order enters SHIPPED status.
+
+If cancellation is requested after shipment, the customer-service agent must follow the cancellation and return procedures.
+
+Agents must not promise cancellation without verifying the current order status.
+
+6. ORDER DUPLICATION
+
+If a customer believes the same order was placed multiple times, the customer-service agent must verify the order records before confirming duplication.
+
+Agents must not assume that two order confirmation messages represent duplicate charges.
+
+Payment records must be checked separately when a duplicate payment is reported.
+
+7. MISSING ORDER INFORMATION
+
+If an order cannot be located using the information supplied by the customer, the agent must request an appropriate order identifier or verify the customer's account through an authorized system.
+
+Agents must not invent an order status, delivery date, tracking number, product, price, or payment status.
+
+8. ORDER TOTAL
+
+The final order total must be obtained from the authorized order or payment system.
+
+Customer-service agents must not estimate or invent the final amount when an authoritative order record is available.
+
+Order totals may include product prices, applicable discounts, taxes, shipping charges, and other authorized charges.
+
+9. CUSTOMER PRIVACY
+
+Customer-specific order information must only be disclosed after appropriate customer verification.
+
+Agents must never disclose another customer's order information.
+
+Sensitive payment information must not be displayed in customer-service responses.
+
+Full payment card numbers, passwords, authentication codes, and account credentials must never be requested or disclosed.
+
+10. ORDER INFORMATION SOURCE
+
+When answering questions about a specific order, the customer-service system must prioritize the authorized order-management system over general knowledge-base statements.
+
+The knowledge base may explain general order procedures, but it must not be used to invent the current status of a specific order.
+
+11. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between general order policy and customer-specific order information.
+
+General policy questions must be answered using trusted company policy.
+
+Customer-specific questions must be answered only when an authorized customer or order data source provides the required information.
+
+If the required information is unavailable, the system must clearly state that it cannot verify the information.
+
+The system must never fabricate an order ID, order status, tracking number, delivery date, product, price, or payment status.

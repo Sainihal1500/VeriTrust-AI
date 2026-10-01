@@ -1,0 +1,130 @@
+VERICOMMERCE - PAYMENT POLICY
+
+Document ID: PAYMENT-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. PAYMENT METHODS
+
+VeriCommerce may support multiple authorized payment methods including:
+- Credit cards
+- Debit cards
+- Authorized digital payment methods
+- Bank-based payment methods
+- Other payment methods displayed during checkout
+
+The payment methods available to a customer depend on the checkout system and applicable eligibility requirements.
+
+2. PAYMENT AUTHORIZATION
+
+An order may require successful payment authorization before it can proceed to fulfillment.
+
+A payment authorization does not by itself guarantee that an order has been shipped.
+
+Customer-service agents must verify the order and payment records before providing payment-related information.
+
+3. FAILED PAYMENTS
+
+A payment may fail because of:
+- Bank or payment-provider rejection
+- Incorrect payment information
+- Insufficient available funds
+- Temporary payment-provider problems
+- Security verification requirements
+- Technical processing problems
+
+Agents must not assume the exact reason for a failed payment unless the authorized payment system provides that information.
+
+4. PAYMENT PENDING
+
+A payment may remain in a pending state while the payment provider completes processing.
+
+Customers should not be told that a payment has permanently failed when the authorized payment system reports a pending status.
+
+The agent must use the current payment status provided by the authorized system.
+
+5. DUPLICATE PAYMENT
+
+If a customer reports that they were charged more than once, the agent must verify the payment records.
+
+Two payment entries do not automatically mean that the customer was permanently charged twice.
+
+One transaction may be an authorization or temporary hold.
+
+Agents must not promise a refund for a duplicate payment until the payment records have been verified.
+
+6. PAYMENT REVERSAL
+
+A payment authorization may be reversed or released by the payment provider.
+
+The exact time required for a reversal or release depends on the payment provider and transaction status.
+
+Customer-service agents must not promise an exact reversal time unless the authorized payment system provides one.
+
+7. REFUNDS TO PAYMENT METHODS
+
+When a refund is approved, the refund is normally processed through the applicable original payment method or another authorized method supported by the payment system.
+
+The refund processing period must be determined using the applicable refund policy and payment information.
+
+Agents must not claim that a refund has been completed unless the authorized system confirms the refund status.
+
+8. PAYMENT INFORMATION SECURITY
+
+Customer-service agents must never request or disclose:
+
+- Full payment card numbers
+- Card security codes
+- PINs
+- Passwords
+- One-time authentication codes
+- Account recovery codes
+- Internal payment credentials
+
+Only the minimum information necessary for authorized verification should be requested.
+
+9. PAYMENT STATUS VERIFICATION
+
+For questions about a specific payment, the system must use the authorized payment record.
+
+The knowledge base provides general payment procedures but does not contain the live status of individual transactions.
+
+The system must not invent:
+- Payment status
+- Transaction IDs
+- Payment amounts
+- Refund status
+- Authorization status
+- Bank responses
+
+10. CURRENCY AND PAYMENT AMOUNTS
+
+The final amount charged to a customer must be obtained from the authorized order or payment system.
+
+Agents must not calculate or guess a customer's final payment amount when an authoritative transaction record is available.
+
+11. PAYMENT DISPUTES
+
+If a customer disputes a payment, the agent must verify the transaction and follow the applicable dispute and escalation procedure.
+
+If the system cannot verify the transaction, the case should be escalated rather than answered using assumptions.
+
+12. CUSTOMER PRIVACY
+
+Payment information is confidential customer information.
+
+Payment details may only be disclosed after appropriate customer verification.
+
+Information belonging to another customer must never be disclosed.
+
+13. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between general payment policy and live payment information.
+
+General payment questions should use trusted payment policies.
+
+Questions about a specific transaction must use an authorized payment data source.
+
+If the required payment information cannot be verified, VeriTrust AI must clearly state that the information cannot currently be verified.
+
+The system must never fabricate payment information.

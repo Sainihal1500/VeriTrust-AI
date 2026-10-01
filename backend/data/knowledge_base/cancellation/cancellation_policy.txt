@@ -1,0 +1,165 @@
+VERICOMMERCE - ORDER CANCELLATION POLICY
+
+Document ID: CANCEL-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. CANCELLATION ELIGIBILITY
+
+Customers may request cancellation of an order before the order has been shipped.
+
+Cancellation is subject to the current order status and applicable operational conditions.
+
+A cancellation request does not automatically mean that the order has been cancelled.
+
+2. BEFORE ORDER PROCESSING
+
+If an order has been placed but processing has not started, cancellation may generally be possible.
+
+The authorized order system must be checked before confirming cancellation.
+
+3. DURING PROCESSING
+
+If an order is currently being processed, cancellation may still be possible depending on the stage of fulfillment.
+
+Agents must check the current order status rather than assuming cancellation is available.
+
+4. PACKED ORDERS
+
+Once an order reaches PACKED status, cancellation may no longer be possible.
+
+The agent must verify the current status and available cancellation options.
+
+Agents must not guarantee cancellation for a packed order.
+
+5. SHIPPED ORDERS
+
+Once an order has been shipped, standard cancellation is normally no longer available.
+
+The customer may need to follow the applicable return procedure after delivery.
+
+Agents must not promise that a shipped order can be cancelled.
+
+6. OUT-FOR-DELIVERY ORDERS
+
+Orders that are OUT_FOR_DELIVERY cannot normally be cancelled through the standard cancellation process.
+
+The customer may need to follow the applicable return procedure if the product is eligible for return.
+
+7. DELIVERED ORDERS
+
+A delivered order cannot be cancelled.
+
+If the customer wants to send the product back, the applicable return policy must be followed.
+
+8. CANCELLATION REQUEST
+
+A cancellation request should include enough information to identify the order.
+
+The system should verify:
+- Order ID
+- Customer identity
+- Current order status
+- Payment status
+- Fulfillment status
+
+The system must not cancel an order without appropriate authorization.
+
+9. CUSTOMER-SPECIFIC CANCELLATION
+
+Questions such as "Can I cancel my order?" require verification of the specific order status.
+
+General cancellation policy cannot determine the current state of an individual order.
+
+The authorized order system must be used whenever customer-specific order information is required.
+
+10. CANCELLATION CONFIRMATION
+
+An order should only be described as CANCELLED after the authorized order system confirms the cancellation.
+
+Submitting a cancellation request is not the same as completing cancellation.
+
+Agents must not tell a customer that an order has been cancelled when the system still shows the order as active.
+
+11. PAYMENT AFTER CANCELLATION
+
+If payment was already authorized or captured before cancellation, the applicable payment and refund procedures must be followed.
+
+Cancellation does not automatically mean that a refund has already been completed.
+
+Agents must not claim that money has been refunded unless the authorized payment system confirms the refund.
+
+12. REFUND PROCESSING
+
+When a cancelled order qualifies for a refund, the refund must follow the applicable refund policy.
+
+The standard refund processing period must be obtained from the trusted refund policy.
+
+13. PARTIAL CANCELLATION
+
+If an order contains multiple products, cancellation of individual products may depend on the fulfillment status of each item.
+
+The authorized order system must determine whether partial cancellation is available.
+
+Agents must not assume that every item in a multi-item order has the same fulfillment status.
+
+14. PROMOTIONAL ORDERS
+
+Cancellation of an order containing promotional products or discounts may affect eligibility for the associated promotion.
+
+The applicable promotion terms must be checked when necessary.
+
+Agents must not promise that promotional benefits will remain available after cancellation.
+
+15. CANCELLATION AFTER SHIPMENT
+
+If a customer requests cancellation after shipment, the agent should explain that standard cancellation is normally unavailable and provide the applicable return procedure when appropriate.
+
+The agent must not guarantee that refusing delivery or contacting the carrier will cancel the order.
+
+16. FAILED CANCELLATION
+
+If a cancellation request cannot be completed, the system must provide the customer with the available next step based on the current order status.
+
+Agents must not claim that a cancellation succeeded if the authorized system reports failure or pending status.
+
+17. CANCELLATION STATUS
+
+Possible cancellation-related statuses include:
+
+CANCELLATION_REQUESTED:
+The customer has requested cancellation.
+
+CANCELLATION_PENDING:
+The cancellation request is being processed.
+
+CANCELLED:
+The order has been successfully cancelled.
+
+CANCELLATION_FAILED:
+The requested cancellation could not be completed.
+
+18. CUSTOMER PRIVACY
+
+Customer-specific cancellation information is confidential.
+
+The customer must be appropriately verified before account or order information is disclosed.
+
+Information belonging to another customer must never be disclosed.
+
+19. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between cancellation policy and the live status of a customer's order.
+
+General questions must use the trusted cancellation policy.
+
+Customer-specific questions must use the authorized order system.
+
+The system must never fabricate:
+- Cancellation eligibility
+- Cancellation status
+- Cancellation confirmation
+- Refund status
+- Order status
+
+If the current order information cannot be verified, the system must clearly state that cancellation status cannot currently be confirmed.

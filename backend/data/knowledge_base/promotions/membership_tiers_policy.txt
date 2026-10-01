@@ -1,0 +1,21 @@
+VERICOMMERCE - MEMBERSHIP TIER POLICY
+
+Document ID: PROMO-MEMBER-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. TIERS
+
+VeriCommerce demo accounts may have Standard, Silver, Gold, or Platinum membership tiers. The authenticated customer record is the source of truth for an individual tier.
+
+2. BENEFITS
+
+Membership benefits may include eligible promotions or service options, but benefits vary by offer and are not guaranteed for every product or order. Check the active promotion terms before describing a discount or delivery benefit.
+
+3. TIER CHANGES
+
+Tier status may change when account eligibility criteria are met. Agents must not promise an upgrade date or a specific benefit unless the customer record or an authorized offer confirms it.
+
+4. PRIVACY
+
+Customer-specific membership information may be disclosed only to the authenticated customer associated with the account.

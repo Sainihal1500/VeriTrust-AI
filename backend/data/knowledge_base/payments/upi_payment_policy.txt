@@ -1,0 +1,21 @@
+VERICOMMERCE - UPI PAYMENT POLICY
+
+Document ID: PAYMENT-UPI-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. UPI AVAILABILITY
+
+UPI is available when shown as an option at checkout and supported by the customer's payment application and bank.
+
+2. PENDING UPI REQUESTS
+
+Customers should approve payment only inside their trusted payment application. A pending UPI request is not proof of a successful VeriCommerce payment. The authorized transaction record is the source of truth for order payment status.
+
+3. FAILED UPI PAYMENTS
+
+If a UPI payment fails or remains pending after a debit, customers may contact support with the order ID and the transaction reference shown in the authorized payment record. Reversal timing depends on the payment provider and bank; no fixed timeline should be guaranteed.
+
+4. SAFE UPI USE
+
+Customers must not share a UPI PIN, password, OTP, or approval code with a support agent. VeriCommerce support will not ask the customer to approve an unexpected collect request or install remote access software.

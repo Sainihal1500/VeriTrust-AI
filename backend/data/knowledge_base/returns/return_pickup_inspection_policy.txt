@@ -1,0 +1,21 @@
+VERICOMMERCE - RETURN PICKUP AND INSPECTION POLICY
+
+Document ID: RETURN-PROCESS-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. RETURN AUTHORIZATION
+
+Some products and reasons require return authorization before a package is sent back. Customers should follow the instructions in the authorized return record and must not ship an item to an address supplied by an unverified source.
+
+2. PICKUP
+
+Pickup availability and date depend on location, carrier capacity, and return approval. A pickup date is confirmed only when an authorized return record shows it as scheduled.
+
+3. INSPECTION
+
+Returned products may be inspected for product identity, condition, included accessories, and applicable policy requirements. A pickup or receipt scan does not mean the return has passed inspection.
+
+4. REFUND AFTER INSPECTION
+
+Return approval and refund completion are separate events. The authorized return and refund records determine each status. Do not promise approval or a refund completion date before the corresponding record confirms it.

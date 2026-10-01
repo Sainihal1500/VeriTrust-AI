@@ -1,0 +1,167 @@
+VERICOMMERCE - WARRANTY POLICY
+
+Document ID: WARRANTY-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. WARRANTY COVERAGE
+
+Warranty coverage depends on the product, applicable warranty terms, purchase date, and the condition of the product.
+
+The warranty period for a specific product must be verified using the applicable product information or warranty record.
+
+Agents must not assume that every product has the same warranty period.
+
+2. WARRANTY START DATE
+
+Unless a product-specific policy states otherwise, the applicable warranty period is generally calculated from the original purchase date.
+
+The authorized order or purchase record should be used when the purchase date must be verified.
+
+3. COVERED DEFECTS
+
+Warranty service may apply to defects covered by the applicable product warranty.
+
+Examples of potentially covered issues may include manufacturing defects or failures occurring under normal intended use, subject to the specific warranty terms.
+
+A customer-service agent must not confirm that a particular failure is covered until the applicable warranty conditions have been verified.
+
+4. EXCLUDED DAMAGE
+
+Warranty coverage may not apply to damage caused by circumstances excluded by the applicable warranty terms.
+
+Possible exclusions may include:
+- Accidental damage
+- Misuse
+- Improper installation
+- Unauthorized modification
+- Unauthorized repair
+- Physical damage
+- Normal wear and tear
+- Damage caused by incompatible accessories
+- Damage caused by use outside specified operating conditions
+
+The exact exclusions depend on the applicable product warranty.
+
+5. NORMAL WEAR AND TEAR
+
+Normal wear and tear is not automatically considered a manufacturing defect.
+
+Warranty eligibility must be determined according to the applicable product warranty.
+
+Agents must not guarantee warranty coverage based only on a customer's description.
+
+6. PROOF OF PURCHASE
+
+A valid purchase record may be required to verify warranty eligibility.
+
+The authorized order or customer account system should be used when available.
+
+Agents must not invent purchase dates or warranty status when the information cannot be verified.
+
+7. WARRANTY CLAIM
+
+A customer requesting warranty service may need to provide information about:
+- Product
+- Order or purchase information
+- Problem description
+- Relevant photographs or evidence
+- Product serial number where applicable
+
+Only information necessary for the warranty process should be requested.
+
+8. WARRANTY INSPECTION
+
+Some warranty claims may require inspection or technical evaluation.
+
+Submitting a warranty claim does not automatically guarantee approval.
+
+The final warranty determination must follow the applicable product warranty terms and authorized evaluation process.
+
+9. REPAIR
+
+Where warranty service includes repair, the available repair process depends on the product and applicable warranty.
+
+Agents must not promise a specific repair completion date unless an authorized system or service agreement provides one.
+
+10. REPLACEMENT
+
+Where the applicable warranty permits replacement, the replacement process must follow the authorized warranty procedure.
+
+Agents must not promise a specific replacement product, model, color, or delivery date unless confirmed by an authorized system.
+
+11. REFUND AND WARRANTY
+
+A warranty claim and a standard refund request are separate processes.
+
+A warranty issue does not automatically mean that a refund will be issued.
+
+Refund eligibility must be determined according to the applicable refund policy and authorized approval process.
+
+12. WARRANTY EXPIRATION
+
+A warranty request submitted after the applicable warranty period is not automatically eligible for warranty service.
+
+Any exception must be evaluated according to the applicable policy and authorization process.
+
+Agents must not promise an expired warranty exception without authorization.
+
+13. PRODUCT-SPECIFIC WARRANTY
+
+Different products may have different warranty periods and conditions.
+
+When a customer asks about a particular product, the system must retrieve the applicable product warranty information whenever available.
+
+General warranty information must not override product-specific warranty terms.
+
+14. SECOND-HAND OR TRANSFERRED PRODUCTS
+
+Warranty eligibility for products purchased or transferred outside the original authorized purchase process must be determined according to the applicable warranty terms.
+
+Agents must not assume that warranty coverage transfers automatically.
+
+15. CUSTOMER-CAUSED DAMAGE
+
+If evidence indicates that damage may have resulted from misuse, accidental damage, unauthorized modification, or another excluded condition, the claim must be evaluated under the applicable warranty terms.
+
+Agents must not independently declare a claim fraudulent or invalid without the appropriate evaluation process.
+
+16. WARRANTY STATUS
+
+For a specific customer warranty request, the system may need to verify:
+- Product
+- Purchase date
+- Warranty period
+- Product condition
+- Claim status
+- Previous service history
+- Applicable warranty terms
+
+Customer-specific warranty information must come from authorized records.
+
+17. CUSTOMER PRIVACY
+
+Warranty information associated with a customer's account or order is confidential.
+
+The system must verify the customer before disclosing customer-specific warranty information.
+
+Information belonging to another customer must never be disclosed.
+
+18. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between general warranty policy and customer-specific warranty eligibility.
+
+General questions should be answered using trusted warranty and product documents.
+
+Customer-specific questions should use authorized order, product, and warranty records.
+
+If the required information cannot be verified, the system must clearly state that warranty eligibility or status cannot currently be confirmed.
+
+The system must never fabricate:
+- Warranty periods
+- Warranty status
+- Claim approval
+- Repair status
+- Replacement approval
+- Replacement delivery dates
+- Inspection results

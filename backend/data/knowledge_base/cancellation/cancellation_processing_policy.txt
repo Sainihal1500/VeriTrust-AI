@@ -1,0 +1,21 @@
+VERICOMMERCE - CANCELLATION PROCESSING POLICY
+
+Document ID: CANCEL-PROCESS-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. REQUEST AND CONFIRMATION
+
+A cancellation request is not complete until the authorized order system records the order as cancelled. Customers should check the order status after submitting a request.
+
+2. FULFILLMENT STATUS
+
+Orders may be cancelled when fulfillment has not progressed beyond the stage permitted by the order system. Once a package has shipped, cancellation is normally unavailable; the customer may need to follow the applicable return process after delivery.
+
+3. PAYMENT AND REFUND
+
+If payment was collected before cancellation, the payment and refund records determine whether funds were captured and whether a refund was initiated. Cancellation alone does not establish refund completion.
+
+4. CUSTOMER COMMUNICATION
+
+Agents must not claim that an order has been cancelled or a refund issued unless the authorized record confirms that status.

@@ -1,0 +1,307 @@
+VERICOMMERCE CUSTOMER SERVICE HANDBOOK
+
+Document ID: CS-HANDBOOK-001
+Version: 1.0
+Status: Active
+Effective Date: 2026-01-01
+Source Type: Official Internal Policy
+
+==================================================
+1. GENERAL CUSTOMER SERVICE
+==================================================
+
+VeriCommerce customer service agents must provide information
+based only on approved company policies, customer records,
+product information, and authorized operational systems.
+
+Agents must not invent:
+- Prices
+- Discounts
+- Delivery dates
+- Refund eligibility
+- Warranty coverage
+- Product specifications
+- Account information
+- Order status
+- Payment status
+
+When information cannot be verified, the agent must clearly
+state that the information cannot currently be verified.
+
+==================================================
+2. CUSTOMER IDENTIFICATION
+==================================================
+
+Customer-specific information may only be disclosed after
+appropriate account verification.
+
+Agents must never disclose:
+- Full payment card numbers
+- Passwords
+- Authentication codes
+- Internal security credentials
+- Another customer's information
+
+==================================================
+3. ORDER INFORMATION
+==================================================
+
+Customers may request information about their own orders.
+
+Available order information includes:
+- Order number
+- Order date
+- Product name
+- Product quantity
+- Order status
+- Shipment status
+- Estimated delivery information
+- Payment status
+
+Agents must use the authorized order database when answering
+questions about a customer's specific order.
+
+==================================================
+4. ORDER STATUS
+==================================================
+
+Supported order statuses include:
+
+PLACED
+PAYMENT_PENDING
+PAYMENT_CONFIRMED
+PROCESSING
+PACKED
+SHIPPED
+OUT_FOR_DELIVERY
+DELIVERED
+CANCELLED
+RETURN_REQUESTED
+RETURNED
+REFUND_PENDING
+REFUNDED
+
+Agents must not claim that an order has shipped unless the
+authorized order system confirms SHIPPED or a later status.
+
+==================================================
+5. ORDER MODIFICATION
+==================================================
+
+Customers may request changes to an order before the order
+enters the PACKED status.
+
+After an order enters PACKED status, modification may no longer
+be possible.
+
+After an order has entered SHIPPED status, the delivery address
+cannot normally be changed through customer service.
+
+Customers should contact support for eligible exceptions.
+
+==================================================
+6. ORDER CANCELLATION
+==================================================
+
+Orders may normally be cancelled before they enter SHIPPED status.
+
+Cancellation requests after shipment require evaluation by
+customer service.
+
+A shipped order cannot be represented as cancelled unless the
+authorized order system confirms cancellation.
+
+==================================================
+7. DELIVERY
+==================================================
+
+Standard domestic delivery generally takes 3-7 business days
+after shipment.
+
+Express delivery generally takes 1-3 business days after shipment.
+
+Delivery estimates are estimates and are not guaranteed unless
+a specific service agreement states otherwise.
+
+Agents must use the shipment system for customer-specific
+delivery information.
+
+==================================================
+8. DELAYED SHIPMENTS
+==================================================
+
+If an order has exceeded its expected delivery window, the agent
+should check the shipment tracking record.
+
+Agents must not invent a new delivery date.
+
+If tracking information is unavailable, the customer should be
+informed that the shipment status cannot currently be verified.
+
+==================================================
+9. LOST SHIPMENTS
+==================================================
+
+A shipment may be classified as potentially lost when tracking
+has not updated for the period defined by the logistics team.
+
+Customer service must not declare a shipment lost without
+confirmation from the authorized logistics process.
+
+Once a shipment is officially classified as lost, eligible
+replacement or refund procedures may be initiated.
+
+==================================================
+10. DAMAGED PRODUCTS
+==================================================
+
+Customers who receive a visibly damaged product should contact
+customer service and provide the requested evidence.
+
+Evidence may include photographs of:
+- Product damage
+- Packaging damage
+- Shipping label
+- Product identification information
+
+Customer service determines the next step according to the
+damage and returns policies.
+
+==================================================
+11. REFUNDS
+==================================================
+
+Standard refunds are governed by the Refund Policy.
+
+Customers may request a standard refund within 30 calendar days
+of the original purchase date.
+
+Requests submitted more than 30 calendar days after purchase
+are not eligible for a standard refund.
+
+Approved refunds are processed within 5-7 business days after
+approval.
+
+Exceptions require approval from a customer service supervisor.
+
+Agents must not promise an exception before approval.
+
+==================================================
+12. RETURNS
+==================================================
+
+Return eligibility depends on the product, purchase date,
+condition of the product, and applicable return policy.
+
+A return request does not automatically guarantee a refund.
+
+Customers should receive return instructions only after the
+applicable eligibility requirements have been verified.
+
+==================================================
+13. WARRANTY
+==================================================
+
+Warranty coverage depends on the product and applicable
+warranty terms.
+
+Agents must not promise warranty coverage without checking the
+applicable product warranty information.
+
+Damage caused by misuse may be excluded from standard warranty
+coverage.
+
+==================================================
+14. PAYMENTS
+==================================================
+
+Supported payment methods may include:
+- Credit cards
+- Debit cards
+- Authorized digital payment methods
+- Other payment methods explicitly listed during checkout
+
+The currently supported methods must be verified against the
+active payment configuration.
+
+==================================================
+15. PAYMENT FAILURES
+==================================================
+
+If a payment fails, the order may remain in PAYMENT_PENDING
+status.
+
+Customers should not be told that an order is confirmed unless
+the payment system confirms successful payment.
+
+Customers should never be asked to provide their full card
+number, PIN, password, or authentication code to customer
+service.
+
+==================================================
+16. PROMOTIONS
+==================================================
+
+Promotional discounts are subject to their individual terms.
+
+A promotional code may have:
+- An expiration date
+- Product restrictions
+- Minimum purchase requirements
+- Customer eligibility requirements
+- Usage limits
+
+Agents must verify the promotion before confirming eligibility.
+
+==================================================
+17. ACCOUNT SECURITY
+==================================================
+
+Customers are responsible for protecting their passwords and
+authentication credentials.
+
+Customer service agents will never request a customer's password.
+
+Authentication codes must never be requested through ordinary
+customer-service chat.
+
+==================================================
+18. PRIVACY
+==================================================
+
+Customer information must only be used for authorized business
+purposes.
+
+Agents must not disclose personal information belonging to
+another customer.
+
+Sensitive information must be minimized in customer-service
+responses.
+
+==================================================
+19. ESCALATION
+==================================================
+
+Issues should be escalated when:
+- Policy information conflicts
+- Required evidence is unavailable
+- A supervisor exception is required
+- A security concern is detected
+- A customer disputes an important account or transaction fact
+- The requested action requires authorization beyond the agent
+
+==================================================
+20. VERITRUST RESPONSE RULE
+==================================================
+
+Every factual customer-service response should be grounded in
+trusted company evidence.
+
+When trusted evidence contradicts the generated response,
+the generated response must not be shown to the customer.
+
+The response must be corrected, re-verified, or escalated.
+
+When no reliable evidence exists, the system must not guess.
+
+END OF DOCUMENT

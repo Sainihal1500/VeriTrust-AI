@@ -1,0 +1,21 @@
+VERICOMMERCE - CARD AND CASH-ON-DELIVERY POLICY
+
+Document ID: PAYMENT-METHODS-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. CARD PAYMENTS
+
+Credit and debit card availability depends on checkout eligibility and payment-provider service. The payment status displayed by the authorized VeriCommerce system determines whether an order is paid.
+
+2. CARD SECURITY
+
+Support must never request a full card number, CVV, PIN, password, or one-time code. For an investigation, use only the masked payment information and transaction reference available to authorized staff.
+
+3. CASH ON DELIVERY
+
+Cash on delivery is available only when offered at checkout for the product and destination. The amount due must be confirmed from the order record. Customers should pay the carrier only the amount shown in the authorized order details.
+
+4. FAILED OR DUPLICATE CARD CHARGES
+
+Card authorization, settlement, and reversal timing depend on the bank and card network. Agents must check transaction records and must not guarantee a reversal date without a confirmed transaction status.

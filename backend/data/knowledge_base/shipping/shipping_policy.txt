@@ -1,0 +1,161 @@
+VERICOMMERCE - SHIPPING POLICY
+
+Document ID: SHIPPING-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. STANDARD DELIVERY
+
+Standard domestic delivery generally takes 3-7 business days after the order has been shipped.
+
+The delivery estimate is an estimate and may vary because of carrier operations, weather, holidays, remote locations, operational disruptions, or other circumstances.
+
+Agents must not guarantee a delivery date unless an authorized system or customer agreement explicitly provides a guaranteed date.
+
+2. EXPRESS DELIVERY
+
+Eligible orders may have an express delivery option.
+
+Express delivery generally takes 1-3 business days after shipment.
+
+Availability and delivery estimates depend on the destination, product eligibility, carrier service, and checkout options.
+
+3. ORDER PROCESSING TIME
+
+Shipping time begins after the order has been processed and handed to the carrier.
+
+Order processing before shipment is separate from carrier transit time.
+
+Agents must not tell a customer that an order is in transit when the authorized order system shows that it has not yet been shipped.
+
+4. SHIPPING STATUS
+
+The following statuses may be used:
+
+LABEL_CREATED:
+A shipping label has been generated but the package may not yet have been handed to the carrier.
+
+IN_TRANSIT:
+The carrier has received the package and it is moving through the carrier network.
+
+OUT_FOR_DELIVERY:
+The carrier indicates that delivery is expected during the current delivery cycle.
+
+DELIVERED:
+The carrier reports that the package has been delivered.
+
+DELAYED:
+The shipment has exceeded its expected delivery window or the carrier has reported a delay.
+
+5. TRACKING INFORMATION
+
+When available, tracking information must be obtained from the authorized order or shipping system.
+
+Agents must not invent tracking numbers or carrier information.
+
+If a tracking number has not yet been generated, the agent must clearly state that tracking information is not currently available.
+
+6. DELIVERY ESTIMATES
+
+Delivery estimates depend on:
+- Destination
+- Shipping method
+- Order processing
+- Carrier operations
+- Product availability
+- Holidays
+- Weather
+- Operational disruptions
+
+An estimated delivery date must not be presented as a guaranteed delivery date unless the authorized system explicitly identifies it as guaranteed.
+
+7. DELAYED SHIPMENTS
+
+If a shipment is delayed, the agent must check the latest authorized tracking information.
+
+The agent may explain the reported status and applicable company procedure.
+
+The agent must not invent a reason for a delay.
+
+If the carrier has not provided a reason, the response must not claim a specific cause.
+
+8. LOST SHIPMENTS
+
+A shipment must not be declared lost solely because it is late.
+
+The applicable lost-shipment procedure should be followed using the carrier information and company policy.
+
+If investigation is required, the case may need to be escalated.
+
+Agents must not promise a replacement or refund unless the applicable policy and authorized system permit it.
+
+9. DAMAGED SHIPMENTS
+
+If a package arrives damaged, the customer should report the issue through the applicable support process.
+
+The agent may request information or evidence that is permitted by the support procedure.
+
+The agent must not promise reimbursement or replacement before eligibility has been verified.
+
+10. DELIVERY ADDRESS CHANGES
+
+Address changes should be requested before shipment whenever possible.
+
+Once an order has been shipped, an address change normally cannot be guaranteed.
+
+The agent must check the current order and shipping status before providing an answer.
+
+11. DELIVERY ATTEMPTS
+
+A carrier may make one or more delivery attempts depending on the carrier's procedures.
+
+If delivery cannot be completed, the package may be held, returned, or scheduled for another attempt according to the carrier's procedures.
+
+Agents must use the available tracking information rather than guessing what the carrier will do.
+
+12. PACKAGE MARKED DELIVERED BUT NOT RECEIVED
+
+If tracking reports a package as delivered but the customer cannot locate it, the customer-service agent must follow the applicable investigation procedure.
+
+The agent must not immediately state that the package was stolen or lost without verified evidence.
+
+13. INTERNATIONAL SHIPPING
+
+International shipping may have different delivery times and requirements.
+
+Customers may be responsible for applicable customs duties, taxes, or other charges where required by the destination and applicable terms.
+
+International delivery estimates must not be represented as guaranteed unless explicitly confirmed by an authorized system or agreement.
+
+14. SHIPPING COSTS
+
+Shipping charges must be obtained from the authorized checkout or order system.
+
+Agents must not invent shipping charges.
+
+If a promotional shipping offer applies, the applicable promotion terms must also be verified.
+
+15. CARRIER INFORMATION
+
+The carrier associated with a specific shipment must be obtained from the authorized shipping or order system.
+
+General knowledge of common carriers must not be used to guess the carrier for a customer's order.
+
+16. VERICOMMERCE AI REQUIREMENT
+
+VeriTrust AI must distinguish between general shipping policy and live shipment information.
+
+General shipping questions should use the trusted shipping policy.
+
+Questions about a specific shipment must use an authorized order or shipping data source.
+
+The system must never fabricate:
+- Tracking numbers
+- Carrier names
+- Shipment status
+- Delivery dates
+- Delivery attempts
+- Shipment locations
+- Reasons for delays
+
+If current shipment information cannot be verified, the system must clearly state that it cannot verify the current status.

@@ -1,0 +1,227 @@
+VERICOMMERCE - PRODUCT INFORMATION POLICY
+
+Document ID: PRODUCT-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. PRODUCT INFORMATION PRINCIPLE
+
+Product information provided to customers must come from an authorized VeriCommerce product catalog or trusted product documentation.
+
+Agents and AI systems must not invent product specifications.
+
+2. PRODUCT CATEGORIES
+
+VeriCommerce products may be organized into categories including:
+
+- Smartphones
+- Laptops
+- Tablets
+- Audio devices
+- Wearable devices
+- Computer accessories
+- Mobile accessories
+- Home electronics
+
+The actual products and specifications must be obtained from the authorized product catalog.
+
+3. PRODUCT IDENTIFICATION
+
+A product should be identified using reliable information such as:
+- Product ID
+- SKU
+- Model number
+- Product name
+- Authorized catalog information
+
+If a customer provides an incomplete or ambiguous product name, the system should request clarification rather than guessing.
+
+4. PRODUCT NAME
+
+The official product name must be obtained from the authorized catalog.
+
+Agents must not create unofficial product names.
+
+5. PRODUCT PRICE
+
+The current price of a specific product must be obtained from the authorized product or pricing system.
+
+Prices may change over time.
+
+Agents must not claim that a price is current unless the authorized system provides the current price.
+
+6. PRODUCT AVAILABILITY
+
+Product availability must be obtained from the authorized inventory or product system.
+
+Possible inventory states may include:
+- IN_STOCK
+- LOW_STOCK
+- OUT_OF_STOCK
+- PRE_ORDER
+- DISCONTINUED
+
+Agents must not claim that a product is available without verifying current inventory information.
+
+7. PRODUCT COLORS
+
+Available colors must be obtained from the authorized product catalog.
+
+Agents must not assume that every model is available in every color.
+
+8. PRODUCT STORAGE OPTIONS
+
+Products may have multiple storage or configuration options.
+
+The exact configurations must be obtained from the authorized product catalog.
+
+Agents must not invent storage capacities or configurations.
+
+9. PRODUCT SPECIFICATIONS
+
+Product specifications may include:
+- Dimensions
+- Weight
+- Display characteristics
+- Processor
+- Memory
+- Storage
+- Battery capacity
+- Camera specifications
+- Connectivity
+- Ports
+- Operating system
+- Included accessories
+
+All specifications must come from trusted product information.
+
+10. BATTERY INFORMATION
+
+Battery capacity and charging capabilities must be obtained from the authorized product documentation.
+
+Agents must not estimate battery capacity.
+
+Claims about charging speed must only be made when supported by trusted product information.
+
+11. DISPLAY INFORMATION
+
+Display-related information must come from the authorized product documentation.
+
+Examples include:
+- Screen size
+- Resolution
+- Refresh rate
+- Display technology
+- Brightness
+
+Agents must not invent specifications.
+
+12. PROCESSOR AND PERFORMANCE
+
+Processor, chipset, memory, storage, and performance-related specifications must come from the authorized product catalog.
+
+Agents must not claim benchmark results unless those results are explicitly available in an authorized source.
+
+13. COMPATIBILITY
+
+Compatibility information must be based on trusted product documentation.
+
+Examples include:
+- Operating system compatibility
+- Accessory compatibility
+- Charging compatibility
+- Network compatibility
+- Software compatibility
+
+Agents must not guarantee compatibility based solely on assumptions.
+
+14. ACCESSORIES
+
+Included accessories must be determined using the specific product configuration.
+
+Optional accessories must not be described as included unless the product documentation confirms this.
+
+15. PRODUCT WARRANTY
+
+Warranty information must be obtained from the applicable warranty policy and product-specific warranty documentation.
+
+The general warranty policy does not automatically determine the warranty period for every product.
+
+16. PRODUCT CONDITION
+
+Products may have different conditions such as:
+- New
+- Refurbished
+- Open-box
+- Clearance
+
+The product condition must be obtained from the authorized catalog.
+
+Agents must not describe a product as new, refurbished, or open-box without verification.
+
+17. PRODUCT AVAILABILITY AND ORDERING
+
+A product being listed in the catalog does not necessarily mean it is currently available for purchase.
+
+Current availability must be checked using the authorized inventory or ordering system.
+
+18. PRODUCT REVIEWS
+
+Customer reviews and ratings must not be represented as official product specifications.
+
+If review information is presented, it must be clearly distinguished from official product information.
+
+19. PRODUCT COMPARISONS
+
+When comparing products, the system should use verified specifications from authorized product information.
+
+The system must not invent differences between products.
+
+If a specification is unavailable for one of the products, the system should clearly state that the comparison cannot be verified for that specification.
+
+20. DISCONTINUED PRODUCTS
+
+If a product is discontinued, the system should rely on the authorized catalog status.
+
+Agents must not claim that a discontinued product is available unless the inventory system confirms availability.
+
+21. PRODUCT QUESTIONS WITH AMBIGUOUS NAMES
+
+If multiple products have similar names, the system should ask the customer for additional identifying information such as:
+- Model
+- SKU
+- Product ID
+- Configuration
+
+The system must not guess which product the customer means.
+
+22. CURRENT PRODUCT INFORMATION
+
+Product specifications are relatively stable, but prices, availability, configurations, and promotions may change.
+
+For current information, the authorized live product or inventory system should be preferred when available.
+
+23. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between:
+
+GENERAL PRODUCT INFORMATION:
+Use trusted product documentation.
+
+CURRENT PRODUCT DATA:
+Use an authorized product or inventory system when available.
+
+CUSTOMER-SPECIFIC PRODUCT ORDERS:
+Use the authorized order system.
+
+The system must never fabricate:
+- Product specifications
+- Product prices
+- Product availability
+- Product colors
+- Storage configurations
+- Warranty periods
+- Compatibility
+- Included accessories
+
+If the required product information cannot be verified, the system must clearly state that the information is unavailable or requires verification.

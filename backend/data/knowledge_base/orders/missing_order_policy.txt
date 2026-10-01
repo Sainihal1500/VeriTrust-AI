@@ -1,0 +1,21 @@
+VERICOMMERCE - ORDER LOOKUP POLICY
+
+Document ID: ORDER-LOOKUP-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. ORDER IDENTIFIERS
+
+Order information may be provided only after the requester is authenticated and the order is verified as belonging to that account. An order ID supplied in a message is a lookup hint, not proof of ownership.
+
+2. UNKNOWN OR UNVERIFIED ORDERS
+
+When an order cannot be found or ownership cannot be verified, provide a neutral response asking the customer to check the order ID or sign in to the purchasing account. Do not reveal whether an order exists under another customer's account.
+
+3. ORDER STATUS
+
+Use the authorized order record for order status, product, quantity, payment status, and dates. Do not infer a status from an email, a tracking number, or the customer's description alone.
+
+4. DATA MINIMIZATION
+
+Do not disclose a shipping address, contact information, or transaction details unless required to answer the authenticated customer's request.

@@ -1,0 +1,21 @@
+VERICOMMERCE - REFUND PROCESSING POLICY
+
+Document ID: REFUND-PROCESSING-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. REFUND APPROVAL
+
+A refund is issued only after the applicable refund or return requirements are satisfied and the authorized system records approval. A return request or cancellation request alone does not confirm that a refund has been approved.
+
+2. PROCESSING WINDOW
+
+For an approved standard refund, VeriCommerce processing generally takes 5-7 business days after approval. The receiving bank or payment provider may take additional time to post the credit. This is an estimate, not a guarantee.
+
+3. REFUND METHOD
+
+Refunds are normally sent to the original payment method unless an authorized exception is recorded. Agents must use the transaction record for the specific refund status, amount, and estimated completion date.
+
+4. AMOUNTS AND DATES
+
+Never estimate or invent a customer's refund amount, approval date, completion date, or refund method. If a record is missing or inconsistent, refer the case for support review.

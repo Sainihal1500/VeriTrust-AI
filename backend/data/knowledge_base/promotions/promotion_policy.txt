@@ -1,0 +1,173 @@
+VERICOMMERCE - PROMOTION AND DISCOUNT POLICY
+
+Document ID: PROMO-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. PROMOTION ELIGIBILITY
+
+Promotional offers are available only when the customer and order satisfy the conditions specified for the promotion.
+
+Eligibility may depend on:
+- Promotion dates
+- Eligible products
+- Customer eligibility
+- Minimum purchase requirements
+- Payment method
+- Geographic restrictions
+- Quantity limits
+- Other stated promotion conditions
+
+2. PROMOTION PERIOD
+
+Every promotion has a defined validity period.
+
+A promotion is only valid during the period specified by the applicable promotion terms.
+
+Agents must not extend a promotion beyond its stated validity period unless an authorized exception exists.
+
+3. PROMOTION CODES
+
+Some promotions require a valid promotion or coupon code.
+
+A promotion code must be applied according to the applicable promotion terms.
+
+Agents must not invent promotion codes or claim that an invalid code is valid.
+
+4. ONE-TIME PROMOTIONS
+
+Some promotions may be limited to one use per customer or account.
+
+The customer's eligibility must be verified using the authorized promotion system when required.
+
+Agents must not assume that a customer is eligible for a one-time offer without verification.
+
+5. MINIMUM PURCHASE REQUIREMENTS
+
+Some promotions require the customer to reach a minimum eligible purchase amount.
+
+Only eligible products and charges specified by the promotion terms may count toward the minimum.
+
+The applicable promotion system should be used when eligibility depends on the customer's actual order.
+
+6. PRODUCT EXCLUSIONS
+
+Certain products or categories may be excluded from promotions.
+
+The applicable promotion terms must be checked before confirming that a product qualifies.
+
+Agents must not assume that a discount applies to every product.
+
+7. DISCOUNT CALCULATION
+
+The final discount must be calculated using the authorized checkout or promotion system.
+
+Agents must not manually invent or guarantee a discount amount when the authorized system can determine the actual value.
+
+8. STACKING PROMOTIONS
+
+Promotions may or may not be combined with other discounts.
+
+Whether multiple offers can be used together depends on the applicable promotion terms.
+
+Agents must not promise that two promotions can be combined unless the terms explicitly allow it.
+
+9. FREE SHIPPING PROMOTIONS
+
+Free shipping promotions may have specific:
+- Minimum purchase requirements
+- Eligible destinations
+- Eligible products
+- Shipping methods
+- Validity periods
+
+The applicable promotion terms must be checked before confirming eligibility.
+
+10. PROMOTIONAL PRODUCTS
+
+Products included in promotional offers may have additional conditions related to returns, refunds, or cancellations.
+
+The applicable promotion and product policies must be reviewed when necessary.
+
+11. PROMOTION AND RETURNS
+
+Returning a product purchased using a promotion may affect the promotional discount or eligibility.
+
+The applicable return and promotion terms must be followed.
+
+Agents must not promise that the original promotional discount will remain unchanged after a partial or complete return.
+
+12. PROMOTION AND CANCELLATION
+
+Cancelling an order may affect promotional eligibility.
+
+If a promotion required a minimum purchase or multiple qualifying products, cancellation of part of the order may change the customer's eligibility.
+
+The authorized order and promotion systems should be checked when necessary.
+
+13. PROMOTION AND REFUNDS
+
+A refund associated with a promotional purchase must follow the applicable refund and promotion policies.
+
+The refund amount must be based on the authorized transaction record.
+
+Agents must not promise a specific refund amount without verifying the transaction.
+
+14. EXPIRED PROMOTIONS
+
+An expired promotion is not automatically available.
+
+Agents must not reactivate an expired promotion unless an authorized system or policy explicitly permits it.
+
+15. PROMOTION ERRORS
+
+If a customer believes a promotion was not applied correctly, the order and promotion records should be checked.
+
+The agent must not immediately promise an adjustment without verifying the promotion conditions.
+
+16. PROMOTIONAL PRICE DISPLAY
+
+The final price shown by the authorized checkout system should be treated as the authoritative transaction amount.
+
+Marketing or promotional material must not override the actual authorized order record.
+
+17. CUSTOMER-SPECIFIC PROMOTION ELIGIBILITY
+
+Questions such as:
+
+"Am I eligible for this discount?"
+
+may require customer-specific information.
+
+The system should use the authorized promotion system where applicable.
+
+General promotion documents must not be used to invent individual customer eligibility.
+
+18. PROMOTION FRAUD AND ABUSE
+
+Suspected misuse or abuse of promotional offers must be handled according to the applicable security and escalation procedure.
+
+Customer-service agents must not accuse a customer of fraud without an authorized investigation or determination.
+
+19. PROMOTION DATA
+
+The system must not fabricate:
+- Promotion codes
+- Discount percentages
+- Discount amounts
+- Eligibility
+- Promotion expiry dates
+- Minimum purchase requirements
+- Product eligibility
+
+20. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between general promotion rules and live promotion eligibility.
+
+General promotion questions should use trusted promotion documents.
+
+Customer-specific promotion questions should use authorized promotion or order data when available.
+
+If the system cannot verify current promotion information, it must clearly state that the information cannot currently be verified.
+
+The AI must never invent a promotion or promise a discount that is not supported by trusted evidence.

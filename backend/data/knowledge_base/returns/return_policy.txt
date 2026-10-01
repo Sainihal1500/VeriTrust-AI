@@ -1,0 +1,200 @@
+VERICOMMERCE - RETURN POLICY
+
+Document ID: RETURN-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. RETURN ELIGIBILITY
+
+Customers may request a return when the product and order satisfy the applicable return requirements.
+
+Eligibility depends on factors including:
+- Purchase date
+- Product category
+- Product condition
+- Whether the product has been used
+- Applicable return exclusions
+- Applicable promotional or special-order terms
+
+Customers must follow the return procedure provided by VeriCommerce.
+
+2. RETURN REQUEST PERIOD
+
+Standard return requests should be submitted within the applicable return period stated for the product or order.
+
+The refund policy and return policy are related but are not identical.
+
+A customer may need to complete the return process before a refund can be issued.
+
+3. PRODUCT CONDITION
+
+Returned products may be required to be in an acceptable condition.
+
+Depending on the product category, the return may require:
+- Original product
+- Original packaging
+- Included accessories
+- Manuals or documentation
+- Applicable proof of purchase
+
+The exact requirements depend on the product and applicable policy.
+
+4. USED PRODUCTS
+
+Some products may not be eligible for return after use.
+
+Eligibility must be determined using the applicable product and return rules.
+
+Agents must not promise that a used product will be accepted for return without verifying eligibility.
+
+5. DAMAGED PRODUCTS
+
+Customers who receive a damaged product should report the issue through customer support.
+
+The agent may request permitted evidence such as photographs or other information required by the support procedure.
+
+A damaged product claim must be evaluated according to the applicable policy.
+
+Agents must not promise a replacement, refund, or reimbursement before eligibility has been verified.
+
+6. INCORRECT PRODUCT
+
+If a customer receives a product different from the product ordered, the issue should be reported to customer support.
+
+The authorized order record should be checked to determine what was originally ordered.
+
+Agents must not assume that an incorrect shipment occurred without verifying the order information.
+
+7. MISSING ITEMS
+
+If an order contains fewer items than expected, the customer should contact support.
+
+The order record, shipment information, and applicable fulfillment information should be checked before determining the resolution.
+
+Agents must not automatically promise a refund or replacement.
+
+8. RETURN SHIPPING
+
+Return shipping requirements depend on the reason for the return and the applicable product policy.
+
+The customer should follow the return instructions provided by VeriCommerce.
+
+Agents must not promise free return shipping unless the applicable policy or authorized system confirms eligibility.
+
+9. RETURN AUTHORIZATION
+
+Some returns may require authorization before the product is shipped back.
+
+When authorization is required, the customer must follow the provided return instructions.
+
+A customer-service agent must not invent a return authorization number.
+
+10. RETURN PACKAGING
+
+Customers should package returned products according to the return instructions.
+
+Where applicable, original packaging and included accessories should be returned with the product.
+
+Failure to follow packaging instructions may affect return processing where permitted by the applicable policy.
+
+11. RETURN INSPECTION
+
+Returned products may be inspected after receipt.
+
+Inspection may determine whether the product satisfies the applicable return requirements.
+
+A return request being submitted does not automatically guarantee approval.
+
+12. RETURN STATUS
+
+Possible return statuses may include:
+
+RETURN_REQUESTED:
+The customer has submitted a return request.
+
+RETURN_AUTHORIZED:
+The return has been approved for shipment back to VeriCommerce.
+
+RETURN_IN_TRANSIT:
+The returned package is being transported.
+
+RETURN_RECEIVED:
+The returned product has been received.
+
+RETURN_INSPECTION:
+The returned product is being evaluated.
+
+RETURN_APPROVED:
+The return has satisfied the applicable requirements.
+
+RETURN_REJECTED:
+The return does not satisfy the applicable requirements.
+
+13. REFUND AFTER RETURN
+
+Approval of a return and issuance of a refund are separate events.
+
+A refund should only be processed when the applicable refund requirements have been satisfied.
+
+The refund processing time must follow the applicable refund policy.
+
+Agents must not state that a refund has been issued unless the authorized system confirms the refund status.
+
+14. EXCLUDED PRODUCTS
+
+Certain product categories may have special return requirements or may be excluded from standard returns.
+
+The applicable product-specific policy must be checked before confirming eligibility.
+
+Agents must not assume that every product has identical return rules.
+
+15. SALE AND PROMOTIONAL ITEMS
+
+Products purchased through promotions, discounts, bundles, or special offers may have additional return terms.
+
+The applicable promotion and product terms must be checked before providing a definitive answer.
+
+16. RETURN AFTER THE STANDARD PERIOD
+
+A return requested after the applicable standard return period is not automatically eligible.
+
+Any exception must be evaluated according to the applicable policy and authorization process.
+
+Agents must not promise an exception without authorization.
+
+17. RETURN REQUESTS FOR CUSTOMER-SPECIFIC ORDERS
+
+When a customer asks whether a specific order can be returned, the system should verify:
+- Order date
+- Product
+- Order status
+- Product category
+- Applicable return period
+- Existing return status
+- Other applicable eligibility conditions
+
+General policy text alone must not be used to fabricate customer-specific eligibility.
+
+18. CUSTOMER PRIVACY
+
+Customer-specific return information must only be disclosed after appropriate customer verification.
+
+Information belonging to another customer must never be disclosed.
+
+19. VERITRUST AI REQUIREMENT
+
+VeriTrust AI must distinguish between general return policy and customer-specific return eligibility.
+
+General questions should be answered using trusted return and product policies.
+
+Questions about a specific order should use authorized order and return records when available.
+
+If required information is unavailable, the system must clearly state that eligibility cannot currently be verified.
+
+The system must never fabricate:
+- Return eligibility
+- Return authorization
+- Return status
+- Inspection results
+- Refund status
+- Return shipping information

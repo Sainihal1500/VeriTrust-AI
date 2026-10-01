@@ -1,0 +1,25 @@
+VERICOMMERCE - FAILED PAYMENT POLICY
+
+Document ID: PAYMENT-FAILED-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. PAYMENT RESULT
+
+A payment is successful only when the authorized payment system records a successful or captured status. A bank debit or checkout error alone does not confirm that VeriCommerce received the payment.
+
+2. FAILED OR PENDING PAYMENTS
+
+Customers should check the payment status in their account and avoid repeating a payment while the first attempt is still pending. If the payment remains pending or failed, support may review the authorized transaction reference.
+
+3. BANK REVERSALS
+
+When a payment provider debits funds but the VeriCommerce transaction is failed, any reversal is handled by the payment provider and the customer's bank. Timing varies by provider and bank. Agents must not promise a specific reversal date unless the authorized transaction system confirms it.
+
+4. DUPLICATE CHARGES
+
+If a customer reports a duplicate debit, support must compare the authorized payment records before confirming duplicate collection. Do not promise a refund until a duplicate successful charge is verified.
+
+5. SECURITY
+
+Support must never request a card PIN, CVV, full card number, password, or one-time authentication code to investigate a payment.

@@ -1,0 +1,21 @@
+VERICOMMERCE - TRANSACTION SECURITY POLICY
+
+Document ID: PAYMENT-SECURITY-001
+Version: 1.0
+Effective Date: 2026-01-01
+
+1. AUTHORIZED PAYMENT EVIDENCE
+
+Payment, refund, and charge status must come from the authorized transaction system. A customer statement or bank notification may prompt an investigation but does not by itself establish VeriCommerce transaction status.
+
+2. SENSITIVE PAYMENT DATA
+
+Never request or record a full card number, CVV, PIN, online banking password, UPI PIN, or OTP. Use transaction references and masked account details where available.
+
+3. FRAUD CONCERNS
+
+Suspected unauthorized charges or account misuse should be routed through the designated fraud-support process. Do not state that fraud is confirmed before specialist review.
+
+4. REFUND INTEGRITY
+
+Only an authorized refund record confirms the refund amount, status, destination method, or estimated completion. Do not fabricate or guarantee transaction activity.
