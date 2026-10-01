@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0b1324" />
+    <title>VeriTrust AI | Customer Assurance</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <a class="brand" href="#" aria-label="VeriTrust home">
+          <span class="brand-mark"><i></i><i></i><i></i></span>
+          <span><b>VERITRUST</b><small>AI CUSTOMER ASSURANCE</small></span>
+        </a>
+        <div class="environment"><span class="live-dot"></span> LOCAL DEMO ENVIRONMENT</div>
+        <nav class="primary-nav" aria-label="Main navigation">
+          <button class="nav-item active" data-view="chat"><span class="nav-icon">◉</span> Customer desk <kbd>01</kbd></button>
+          <button class="nav-item" data-view="dashboard"><span class="nav-icon">▦</span> Trust dashboard <kbd>02</kbd></button>
+        </nav>
+        <div class="sidebar-rule"></div>
+        <div class="side-section-label">SYSTEM STATUS</div>
+        <div class="system-card"><span class="status-orb"></span><div><strong>Guardrails active</strong><small>Maker · Judge · Final Judge</small></div></div>
+        <div class="system-card"><span class="status-orb blue"></span><div><strong>Local knowledge base</strong><small id="kb-status">Checking index…</small></div></div>
+        <div class="sidebar-bottom">
+          <div class="lock-mark">⌑</div>
+          <p>Private account data is checked against the authenticated demo session before it reaches the assistant.</p>
+          <span>VERICOMMERCE · SYNTHETIC DATA</span>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <header class="topbar">
+          <div class="breadcrumbs"><span>WORKSPACE</span><b>/</b><strong id="current-section">CUSTOMER DESK</strong></div>
+          <div class="top-actions"><span class="local-badge"><span class="live-dot"></span> OLLAMA LOCAL</span><span class="avatar">VT</span></div>
+        </header>
+
+        <section id="chat-view" class="view active">
+          <div class="page-heading">
+            <div><div class="eyebrow">CUSTOMER OPERATIONS <span>·</span> DUAL-AGENT VERIFICATION</div><h1>Customer desk</h1><p>Answer with trusted company knowledge and verified account data.</p></div>
+            <div class="request-pill"><span class="pulse-ring"></span> LIVE GUARDRAIL</div>
+          </div>
+
+          <div class="desk-grid">
+            <section class="chat-panel panel">
+              <div class="panel-heading chat-panel-heading"><div class="assistant-id"><div class="assistant-avatar"><span>V</span><i></i></div><div><h2>VeriCommerce assistant</h2><p><span class="live-dot"></span> Ready to help</p></div></div>
+                <label class="session-select"><span>DEMO SESSION</span><select id="session-select" aria-label="Authenticated demo session"></select></label>
+              </div>
+              <div id="conversation" class="conversation" aria-live="polite">
+                <div class="welcome-block"><div class="welcome-symbol">✳</div><span class="eyebrow">VERIFIED SUPPORT</span><h3>How can we help today?</h3><p>Ask about a policy, a product, or an order tied to the selected session.</p>
+                  <div class="suggestion-grid">
+                    <button class="suggestion" data-prompt="Where is my order ORD-10001?"><span>↗</span><b>Track an order</b><small>Shipment status and estimate</small></button>
+                    <button class="suggestion" data-prompt="What is the refund processing time?"><span>↺</span><b>Refund policy</b><small>Eligibility and processing</small></button>
+                    <button class="suggestion" data-prompt="Does the SmartView 4K Monitor support HDMI?"><span>⌁</span><b>Product details</b><small>Ports and compatibility</small></button>
+                    <button class="suggestion" data-prompt="I forgot my password. What should I do?"><span>◇</span><b>Account security</b><small>Safe recovery guidance</small></button>
+                  </div>
+                </div>
+              </div>
+              <form id="chat-form" class="composer">
+                <div class="composer-wrap"><textarea id="message-input" rows="1" maxlength="4000" placeholder="Ask a question about an order, policy, or product…" aria-label="Message"></textarea><button id="send-button" class="send-button" type="submit" aria-label="Send message">↑</button></div>
+                <div class="composer-foot"><span><span class="shield-mini">◆</span> Responses are checked against trusted evidence</span><span id="char-count">0 / 4000</span></div>
+              </form>
+            </section>
+
+            <aside class="verification-column">
+              <section class="panel trust-panel">
+                <div class="panel-heading"><div><div class="eyebrow">RESPONSE ASSURANCE</div><h2>Verification</h2></div><span id="verify-icon" class="verify-icon neutral">—</span></div>
+                <div id="empty-verification" class="empty-verification"><div class="empty-orbit">◈</div><strong>Awaiting a response</strong><p>Each answer is checked for evidence support, policy conflicts, and account authorization.</p></div>
+                <div id="verification-details" class="verification-details hidden">
+                  <div class="decision-line"><span id="decision-label">APPROVE</span><span id="risk-chip" class="risk-chip">LOW RISK</span></div>
+                  <div class="verify-checks"><div><span class="check-symbol">✓</span><span>Session authorization</span><b id="auth-status">—</b></div><div><span class="check-symbol">✓</span><span>Evidence review</span><b id="evidence-status">—</b></div><div><span class="check-symbol">✓</span><span>Policy check</span><b id="policy-status">—</b></div><div><span class="check-symbol">✓</span><span>Final Judge</span><b id="judge-status">—</b></div></div>
+                  <div class="response-reason"><span>DECISION NOTE</span><p id="decision-reason">—</p></div>
+                </div>
+              </section>
+              <section class="panel source-panel"><div class="panel-heading"><div><div class="eyebrow">TRACEABILITY</div><h2>Trusted sources</h2></div><span id="source-count" class="count-badge">0</span></div><div id="sources-list" class="sources-list"><div class="source-empty">Sources will appear with the verified response.</div></div></section>
+              <div class="privacy-note"><span>⌑</span><p><b>Private by design</b><br />Order access is limited to the customer linked to this session.</p></div>
+            </aside>
+          </div>
+        </section>
+
+        <section id="dashboard-view" class="view">
+          <div class="page-heading dashboard-heading"><div><div class="eyebrow">TRUST OPERATIONS <span>·</span> LIVE AUDIT TELEMETRY</div><h1>Trust dashboard</h1><p>Monitor verification decisions and response quality across the demo environment.</p></div><button id="refresh-dashboard" class="outline-button">↻ &nbsp; Refresh data</button></div>
+          <div class="metrics-grid">
+            <article class="metric-card"><span class="metric-label">TOTAL REQUESTS</span><strong id="metric-total">0</strong><small>Recorded interactions</small><span class="metric-icon">⌁</span></article>
+            <article class="metric-card"><span class="metric-label">APPROVED</span><strong id="metric-approved">0</strong><small>Passed verification</small><span class="metric-icon green">✓</span></article>
+            <article class="metric-card"><span class="metric-label">CORRECTED</span><strong id="metric-corrected">0</strong><small>Rewritten and rechecked</small><span class="metric-icon amber">↻</span></article>
+            <article class="metric-card"><span class="metric-label">BLOCKED / REVIEW</span><strong><span id="metric-blocked">0</span><em> / </em><span id="metric-reviewed">0</span></strong><small>Protected or escalated</small><span class="metric-icon red">⊘</span></article>
+          </div>
+          <div class="dashboard-grid">
+            <section class="panel analytics-panel"><div class="panel-heading"><div><div class="eyebrow">DECISION MIX</div><h2>Risk and throughput</h2></div><span class="live-caption"><span class="live-dot"></span> ALL RECORDED</span></div>
+              <div class="decision-chart"><div class="chart-ring" id="risk-ring"><div><strong id="risk-total">0</strong><small>REQUESTS</small></div></div><div class="chart-legend"><div><i class="legend-dot low"></i><span>Low risk</span><b id="risk-low">0</b></div><div><i class="legend-dot high"></i><span>High risk</span><b id="risk-high">0</b></div><div><i class="legend-dot other"></i><span>Other / medium</span><b id="risk-other">0</b></div></div></div>
+              <div class="latency-block"><div class="subheading"><b>AVERAGE LATENCY</b><strong id="latency-value">0 ms</strong></div><div class="latency-track"><span id="latency-bar"></span></div><div class="latency-breakdown"><span>Retrieval <b id="latency-retrieval">0 ms</b></span><span>Maker <b id="latency-maker">0 ms</b></span><span>Judge <b id="latency-judge">0 ms</b></span><span>Correction <b id="latency-correction">0 ms</b></span></div></div>
+            </section>
+            <section class="panel dataset-panel"><div class="panel-heading"><div><div class="eyebrow">VERICOMMERCE DEMO DATA</div><h2>Dataset coverage</h2></div><span class="dataset-mark">VC</span></div><div class="dataset-list"><div><span>Customers</span><b id="data-customers">—</b></div><div><span>Orders</span><b id="data-orders">—</b></div><div><span>Payments</span><b id="data-payments">—</b></div><div><span>Refunds / returns</span><b><span id="data-refunds">—</span> / <span id="data-returns">—</span></b></div><div><span>Shipments</span><b id="data-shipments">—</b></div><div><span>Products</span><b id="data-products">—</b></div><div><span>Promotions / support cases</span><b><span id="data-promotions">—</span> / <span id="data-cases">—</span></b></div></div><div class="synthetic-caption"><span>ⓘ</span> All customer and transaction records are deterministic synthetic demo data.</div></section>
+          </div>
+          <section class="panel audit-panel"><div class="panel-heading"><div><div class="eyebrow">RECENT ACTIVITY</div><h2>Session audit events</h2></div><label class="session-select compact"><span>FILTER SESSION</span><select id="audit-session-select" aria-label="Filter recent events by session"></select></label></div><div class="audit-table-wrap"><table class="audit-table"><thead><tr><th>REQUEST</th><th>QUERY</th><th>CATEGORY</th><th>DECISION</th><th>RISK</th><th>LATENCY</th></tr></thead><tbody id="audit-rows"><tr><td colspan="6" class="table-empty">No audit events for this session yet.</td></tr></tbody></table></div></section>
+        </section>
+        <footer class="app-footer"><span>VERITRUST AI <b>v1.0</b></span><span>MAKER / JUDGE HALLUCINATION GUARDRAIL <i>•</i> LOCAL-FIRST</span></footer>
+      </main>
+    </div>
+    <script src="/static/app.js" defer></script>
+  </body>
+</html>
